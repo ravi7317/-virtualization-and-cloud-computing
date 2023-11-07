@@ -1,0 +1,8 @@
+1. what is a virtual machine 
+Answer = a vm is virtual instance of a computer that can perform almost  all of the function as a computer including running application and operating system. virtual machine run on a physical machine and access computing resource from software called a hyperwiser 
+
+
+2. what is hypervisor
+a hypervisor is also known as virtual machine monitor or vmm is software that create a run virtual machine (VM). a hypervisor also a host computer to support multiple guests virtually sharing its resource such as memory and processing 
+
+
